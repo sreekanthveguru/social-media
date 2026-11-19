@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    color: black;
+    color: #333333;
     margin-top: 50px;
 }
 
@@ -20,9 +20,13 @@ h1 {
 }
 
 .youtube {
-    color: red;
+    color: #FF0000;
 }
 
 .instagram {
     color: #E1306C;
+}
+
+.facebook {
+    color: #1877F2;
 }
